@@ -1,6 +1,6 @@
 # simulation_airport_queue
 
-In this project, I designed and implemented a discrete-event simulation to model the queue dynamics at an airport security checkpoint. The aim was to observe the behavior of passengers as they proceed through security under various conditions and configurations. Leveraging the power of both theoretical and empirical methodologies, I investigated scenarios from a single queue setup to more complex multi-queue systems, including the involvement of senior security officers. <br><br>
+In this [project](https://github.com/miraslavats/simulation_airport_queue/blob/4cfce964efa60225b6ba8cbe82a46f1a4515df4d/%20Airport%20Security%20Queues.ipynb), I designed and implemented a discrete-event simulation to model the queue dynamics at an airport security checkpoint. The aim was to observe the behavior of passengers as they proceed through security under various conditions and configurations. Leveraging the power of both theoretical and empirical methodologies, I investigated scenarios from a single queue setup to more complex multi-queue systems, including the involvement of senior security officers. <br><br>
 Implementation Details:
 <br><br>
 Event-Driven Simulation: I constructed an event-based simulator where different events (e.g., passenger arrivals, service completion) are scheduled and processed in chronological order.<br>
